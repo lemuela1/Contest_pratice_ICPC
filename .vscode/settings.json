@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "court_blue": "cpp",
+        "iostream": "cpp"
     }
 }

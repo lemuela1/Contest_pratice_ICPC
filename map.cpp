@@ -21,8 +21,6 @@ int main(){
 
     sort(list_M.begin(), list_M.end());
 
-    for(int i = 0; i < list_O.size(); i++){
-        if
-    }
+
 
 }
